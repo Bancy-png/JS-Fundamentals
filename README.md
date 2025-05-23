@@ -27,6 +27,7 @@ This project contains basic JavaScript exercises and scripts for learning and pr
 - `5-to_integer.js`: Converts and prints the first argument as an integer, or prints “Not a number” if conversion fails.
 - `6-multi_languages_loop.js`: Prints 3 lines using an array and a loop with only one console.log statement.
 - `7-multi_c.js`: Prints “C is fun” x times using a loop. If no valid number is passed, prints “Missing number of occurrences”.
+- `8-square.js`: Prints a square using 'X'. If no valid size is passed, it prints “Missing size”.
 ## Author
 
 Bancy 😊
