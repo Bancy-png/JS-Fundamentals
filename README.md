@@ -29,6 +29,7 @@ This project contains basic JavaScript exercises and scripts for learning and pr
 - `7-multi_c.js`: Prints “C is fun” x times using a loop. If no valid number is passed, prints “Missing number of occurrences”.
 - `8-square.js`: Prints a square using 'X'. If no valid size is passed, it prints “Missing size”.
 - `9-add.js`: Prints the addition of two numbers passed as arguments.
+- `10-factorial.js`: Computes and prints the factorial of a number using recursion.
 ## Author
 
 Bancy 😊
