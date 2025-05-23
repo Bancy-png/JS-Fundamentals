@@ -25,6 +25,7 @@ This project contains basic JavaScript exercises and scripts for learning and pr
 - `3-value_argument.js`: Prints the first argument passed to the script, or “No argument” if none is passed.
 - `4-concat.js`: Prints two arguments passed to the script in the format “<first> is <second>”.
 - `5-to_integer.js`: Converts and prints the first argument as an integer, or prints “Not a number” if conversion fails.
+- `6-multi_languages_loop.js`: Prints 3 lines using an array and a loop with only one console.log statement.
 ## Author
 
 Bancy 😊
