@@ -26,6 +26,7 @@ This project contains basic JavaScript exercises and scripts for learning and pr
 - `4-concat.js`: Prints two arguments passed to the script in the format “<first> is <second>”.
 - `5-to_integer.js`: Converts and prints the first argument as an integer, or prints “Not a number” if conversion fails.
 - `6-multi_languages_loop.js`: Prints 3 lines using an array and a loop with only one console.log statement.
+- `7-multi_c.js`: Prints “C is fun” x times using a loop. If no valid number is passed, prints “Missing number of occurrences”.
 ## Author
 
 Bancy 😊
