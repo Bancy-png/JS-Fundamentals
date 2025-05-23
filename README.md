@@ -9,3 +9,7 @@ This project contains basic JavaScript exercises and scripts for learning and pr
 ## Author
 
 Bancy 😊
+## Files
+
+- `0-javascript_is_amazing.js`: Prints “JavaScript is amazing” to the console using a constant.
+- `1-multi_languages.js`: Prints three lines using console.log.
